@@ -1,16 +1,15 @@
+
 ### Hi there 👋
+2
+​
+3
+I am Currently pursuing my masters in Northwest Missouri State University.
 
-<!--
-**balaharinadh/balaharinadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Interests are exploring new places and watching cricket.
 
-Here are some ideas to get you started:
+I Completed my Graduation in VNRVJIET in Electrical and Electronics Engineering. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my Undergraduation I have Electives like C and Java , after studying those electives ,I got 
+interest in those subjects .
+
+ I wanted to enhance my skills in coding , so I joined in Applied Computer Science.  
