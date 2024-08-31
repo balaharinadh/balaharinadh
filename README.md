@@ -3,7 +3,7 @@
 2
 ​
 3
-I am Currently pursuing my masters in Northwest Missouri State University.
+Completed a master's degree in Applied Computer Science at Northwest Missouri State University.
 
 My Interests are exploring new places and watching cricket.
 
